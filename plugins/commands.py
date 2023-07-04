@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/show_time_network')
             ],
             [
-                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/itz_showtime143"),
+                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/itz_showtime1"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -93,7 +93,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/itz_showtime143'),
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/itz_showtime1'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/show_time_network')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://t.me/itz_showtime143') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://t.me/itz_showtime1') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
