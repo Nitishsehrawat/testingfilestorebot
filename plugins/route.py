@@ -11,4 +11,4 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response("Join Telegram Channal @itz_showtime143")
+    return web.json_response("Join Telegram Channel @itz_showtime1")
