@@ -108,7 +108,8 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
+            InlineKeyboardButton(text="🤑Money🤑", url='https://youronlinerevenue.siterubix.com/')
         ]
     )
 
