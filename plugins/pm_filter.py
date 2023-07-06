@@ -690,7 +690,8 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [
             InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
-            #InlineKeyboardButton(text="🤑Money🤑", url='https://youronlinerevenue.siterubix.com')
+        ],[
+            InlineKeyboardButton(text="🤑Money🤑", url='https://youronlinerevenue.siterubix.com')
         ]
     )
 
