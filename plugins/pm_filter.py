@@ -109,7 +109,7 @@ async def next_page(bot, query):
     btn.insert(0,
         [
             InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
-            InlineKeyboardButton(text="🤑Money🤑", url='https://youronlinerevenue.siterubix.com/')
+            InlineKeyboardButton(text="🔞 Adult Channel 🔞", url='https://t.me/+ISsRMGW_ccVjN2Vl')
         ]
     )
 
@@ -690,7 +690,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [
            # InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
-            InlineKeyboardButton(text="🤑Money🤑", url='https://youronlinerevenue.siterubix.com')
+            InlineKeyboardButton(text="🔞 Adult Channel 🔞", url='https://t.me/+ISsRMGW_ccVjN2Vl')
         ]
     )
 
