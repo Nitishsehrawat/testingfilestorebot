@@ -108,8 +108,9 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
-            InlineKeyboardButton(text="🔞 Adult Channel 🔞", url='https://t.me/+b0b71eswpbhjMGZl')
+           
+            #InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/show_time_network/7'),
+            InlineKeyboardButton(text="🤑Earn Money🤑", url='https://t.me/earn_with_showtime')
         ]
     )
 
