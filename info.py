@@ -82,7 +82,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/show_time_network/7"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "🔞 Adult Channel 🔞"
-CAPTION_BUTTON_URL = "https://t.me/+D_kSpPfTr9s4Yzg1"
+CAPTION_BUTTON = "🤑Earn Money🤑"
+CAPTION_BUTTON_URL = "https://t.me/earn_with_showtime"
 
    # Auto Delete For Bot Sending Files #
